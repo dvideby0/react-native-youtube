@@ -1,6 +1,6 @@
 {
-  "name": "react-native-youtube",
-  "version": "1.0.0-alpha.2",
+  "name": "react-native-youtube-fork",
+  "version": "1.0",
   "description": "A <YouTube/> component for React Native.",
   "main": "main.js",
   "scripts": {
